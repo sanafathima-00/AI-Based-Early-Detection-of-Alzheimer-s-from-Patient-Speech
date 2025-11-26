@@ -1,5 +1,5 @@
 /venv
 dataset_audio/
-dataset_spectogram/
+dataset_spectrograms/
 model.hdf5
 training_log.csv
